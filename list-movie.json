@@ -1,0 +1,42 @@
+{
+  "authors": "Quang Blue",
+  "version": 1,
+  "internalName": "Movie",
+  "description": "Watch Anime From Hentai.pro",
+  "types": [
+    "NSFW"
+  ],
+  "data": [
+    {
+      "tmdb_id": "533535",
+      "createdAt": "2024-08-15T06:35:58.249Z",
+      "updatedAt": "2024-08-15T07:00:45.838Z",
+      "publishedAt": "2024-08-15T06:36:12.680Z",
+      "stream": {
+        "id": 1,
+        "videos": [
+          {
+            "id": 1,
+            "codec": "H.265 (HEVC)",
+            "resolution": "res_1080p",
+            "bitrate": 20,
+            "file_path": "https://www.fshare.vn/file/663MMXLXKQP43VV",
+            "source": "fshare",
+            "file_size": 5.6,
+            "quality": "cam"
+          },
+          {
+            "id": 2,
+            "codec": "H.265 (HEVC)",
+            "resolution": "res_4k",
+            "bitrate": 20,
+            "file_path": "https://www.fshare.vn/file/93GR6AO9ZXG679C",
+            "source": "fshare",
+            "file_size": 20.6,
+            "quality": "ts"
+          }
+        ]
+      }
+    }
+  ]
+}
