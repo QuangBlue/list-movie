@@ -1,0 +1,12 @@
+{
+  "name": "Repo của Quang",
+  "description": "Ở đây không có phim sex đâu",
+  "repoUrl": "https://github.com/",
+  "isPublic": true,
+  "dataLists": [
+    {
+      "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-movie.json",
+      "version": 1
+    }
+  ]
+}
