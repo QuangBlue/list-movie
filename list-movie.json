@@ -9,11 +9,12 @@
   "data": [
     {
       "tmdb_id": "533535",
+      "name": "Deadpool và Wolverine",
+      "imgUrl": "",
+      "type": "movie",
       "stream": {
-        "id": 1,
         "videos": [
           {
-            "id": 1,
             "codec": "H.265 (HEVC)",
             "resolution": "res_1080p",
             "bitrate": 20,
@@ -23,7 +24,6 @@
             "quality": "cam"
           },
           {
-            "id": 2,
             "codec": "H.265 (HEVC)",
             "resolution": "res_4k",
             "bitrate": 20,
