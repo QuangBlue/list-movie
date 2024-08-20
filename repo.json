@@ -3,6 +3,8 @@
   "description": "Ở đây không có phim sex đâu",
   "repoUrl": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/repo.json",
   "isPublic": true,
+  "version" : 1,
+  "service" : "allfix",
   "dataLists": [
     {
       "name": "movie",
