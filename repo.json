@@ -8,13 +8,13 @@
   "dataLists": [
     {
       "name": "movie",
-      "description": "Danh sách phim lẻ"
+      "description": "Danh sách phim lẻ",
       "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-movie.json",
       "version": 1
-    }
+    },
     {
       "name": "Tv Show",
-      "description": "Danh sách phim bộ"
+      "description": "Danh sách phim bộ",
       "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-tv-show.json",
       "version": 1
     }
