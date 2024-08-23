@@ -283,7 +283,7 @@
                                         "audio_format": "Dolby Digital Plus (DDP)",
                                         "audio_tech": "Dolby Atmos",
                                         "dubbing": false,
-                                        "hdr": true
+                                        "hdr": false
                                     },
                                     {
                                         "codec": "H.264 (AVC)",
@@ -296,7 +296,271 @@
                                         "audio_format": "Dolby Digital Plus (DDP)",
                                         "audio_tech": "Dolby Atmos",
                                         "dubbing": false,
-                                        "hdr": true
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 3,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/OSLDTNKN93C8VE1",
+                                        "source": "Fshare",
+                                        "file_size": 4.0,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/5Y4GKAG4WZYIHK5",
+                                        "source": "Fshare",
+                                        "file_size": 8.2,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 4,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/5D341H3P2UUGGNM",
+                                        "source": "Fshare",
+                                        "file_size": 3.9,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/B7QW16IQX7XQP1O",
+                                        "source": "Fshare",
+                                        "file_size": 8.1,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 5,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/3I1CELMZUY1YICX",
+                                        "source": "Fshare",
+                                        "file_size": 3.8,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/CMWBLTZ8YSVPNV4",
+                                        "source": "Fshare",
+                                        "file_size": 7.7,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 6,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/GMJJUE44ZA95NMU",
+                                        "source": "Fshare",
+                                        "file_size": 4.2,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/KF6BTVPKF8KT9HF",
+                                        "source": "Fshare",
+                                        "file_size": 8.8,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 7,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/IHL9AAESJZ6JWNB",
+                                        "source": "Fshare",
+                                        "file_size": 3.7,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/94J4MHCZPA2468B",
+                                        "source": "Fshare",
+                                        "file_size": 7.5,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 8,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/2TOMRRAU3NO9XLX",
+                                        "source": "Fshare",
+                                        "file_size": 4.2,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/29SX27IOOZRK85Q",
+                                        "source": "Fshare",
+                                        "file_size": 8.8,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 9,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/96TD3ZIDXBG5Y93",
+                                        "source": "Fshare",
+                                        "file_size": 3.6,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/JS4X4EFMN4BXIHL",
+                                        "source": "Fshare",
+                                        "file_size": 7.5,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "episode_number": 10,
+                            "stream": {
+                                "videos": [
+                                    {
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/M8XSUOJE1RFLG67",
+                                        "source": "Fshare",
+                                        "file_size": 7.6,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
+                                    },
+                                    {
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
+                                        "bitrate": "",
+                                        "file_path": "https://www.fshare.vn/file/C36CV7Z4D5FFJ6W",
+                                        "source": "Fshare",
+                                        "file_size": 3.7,
+                                        "quality": "Web-DL",
+                                        "audio_format": "Dolby Digital Plus (DDP)",
+                                        "audio_tech": "Dolby Atmos",
+                                        "dubbing": false,
+                                        "hdr": false
                                     }
                                 ]
                             }
