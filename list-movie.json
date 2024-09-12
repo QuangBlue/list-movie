@@ -4,7 +4,8 @@
     "internalName": "Movie",
     "description": "Watch movie",
     "types": [
-        "Movie"
+        "Movie",
+        "TvShow"
     ],
     "data": [
         {
@@ -227,6 +228,42 @@
             }
         },
         {
+            "tmdb_id": 1226578,
+            "name": "Longlegs - Thảm Kịch Dị Giáo (2024)",
+            "imgUrl": "",
+            "type": "Movie",
+            "stream": {
+                "videos": [
+                    {
+                        "codec": "H.264 (AVC)",
+                        "resolution": "1080p",
+                        "bitrate": "",
+                        "file_path": "https://www.fshare.vn/file/KOFRD8SY7TBT",
+                        "source": "Fshare",
+                        "file_size": 3.1,
+                        "quality": "Web-DL",
+                        "audio_format": "Dolby Digital Plus (DDP)",
+                        "audio_tech": "Standard Surround Sound",
+                        "dubbing": false,
+                        "hdr": false
+                    },
+                    {
+                        "codec": "H.265 (HEVC)",
+                        "resolution": "4k",
+                        "bitrate": "",
+                        "file_path": "https://www.fshare.vn/file/JBN21RFMKNCH",
+                        "source": "Fshare",
+                        "file_size": 10.6,
+                        "quality": "Web-DL",
+                        "audio_format": "Dolby Digital Plus (DDP)",
+                        "audio_tech": "Standard Surround Sound",
+                        "dubbing": false,
+                        "hdr": false
+                    }
+                ]
+            }
+        },
+        {
             "tmdb_id": 94997,
             "name": "Gia Tộc Rồng",
             "imgUrl": "",
@@ -273,12 +310,12 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
                                         "bitrate": "",
-                                        "file_path": "https://www.fshare.vn/file/M6L97Z49QNTUGJ3",
+                                        "file_path": "https://www.fshare.vn/file/MIE468BO6HOQC8S",
                                         "source": "Fshare",
-                                        "file_size": 7.0,
+                                        "file_size": 3.4,
                                         "quality": "Web-DL",
                                         "audio_format": "Dolby Digital Plus (DDP)",
                                         "audio_tech": "Dolby Atmos",
@@ -286,12 +323,12 @@
                                         "hdr": false
                                     },
                                     {
-                                        "codec": "H.264 (AVC)",
-                                        "resolution": "1080p",
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
                                         "bitrate": "",
-                                        "file_path": "https://www.fshare.vn/file/MIE468BO6HOQC8S",
+                                        "file_path": "https://www.fshare.vn/file/M6L97Z49QNTUGJ3",
                                         "source": "Fshare",
-                                        "file_size": 3.4,
+                                        "file_size": 7.0,
                                         "quality": "Web-DL",
                                         "audio_format": "Dolby Digital Plus (DDP)",
                                         "audio_tech": "Dolby Atmos",
@@ -537,12 +574,12 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
+                                        "codec": "H.264 (AVC)",
+                                        "resolution": "1080p",
                                         "bitrate": "",
-                                        "file_path": "https://www.fshare.vn/file/M8XSUOJE1RFLG67",
+                                        "file_path": "https://www.fshare.vn/file/C36CV7Z4D5FFJ6W",
                                         "source": "Fshare",
-                                        "file_size": 7.6,
+                                        "file_size": 3.7,
                                         "quality": "Web-DL",
                                         "audio_format": "Dolby Digital Plus (DDP)",
                                         "audio_tech": "Dolby Atmos",
@@ -550,12 +587,12 @@
                                         "hdr": false
                                     },
                                     {
-                                        "codec": "H.264 (AVC)",
-                                        "resolution": "1080p",
+                                        "codec": "H.265 (HEVC)",
+                                        "resolution": "4k",
                                         "bitrate": "",
-                                        "file_path": "https://www.fshare.vn/file/C36CV7Z4D5FFJ6W",
+                                        "file_path": "https://www.fshare.vn/file/M8XSUOJE1RFLG67",
                                         "source": "Fshare",
-                                        "file_size": 3.7,
+                                        "file_size": 7.6,
                                         "quality": "Web-DL",
                                         "audio_format": "Dolby Digital Plus (DDP)",
                                         "audio_tech": "Dolby Atmos",
