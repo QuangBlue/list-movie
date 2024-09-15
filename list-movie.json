@@ -16,30 +16,34 @@
             "stream": {
                 "videos": [
                     {
-                        "codec": "H.264 (AVC)",
+                        "codec": "h264",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/9T2KF54VRY8WOGW",
-                        "source": "Fshare",
-                        "file_size": 5.1,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital (AC-3)",
-                        "audio_tech": "Standard Surround Sound",
+                        "source_quality": "WEB",
+                        "file_size": "5.06 GB",
+                        "audio_format": "Unknown Audio",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "Despicable Me 4",
+                        "file_name": "Despicable.Me.4.2024.1080p.WEB.h264-ETHEL (Vietsub)",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.265 (HEVC)",
-                        "resolution": "4k",
-                        "bitrate": "",
+                        "codec": "H265",
+                        "resolution": "2160p",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/4NNZSPV2CA4GMJJ",
-                        "source": "Fshare",
-                        "file_size": 16.6,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Dolby Atmos",
+                        "source_quality": "WEB-DL",
+                        "file_size": "16.62 GB",
+                        "audio_format": "DDP",
                         "dubbing": false,
-                        "hdr": true
+                        "hdr": true,
+                        "title": "Despicable Me 4",
+                        "file_name": "Despicable.Me.4.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX (phụ đề)",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     }
                 ]
             }
@@ -52,56 +56,64 @@
             "stream": {
                 "videos": [
                     {
-                        "codec": "H.265 (HEVC)",
+                        "codec": "x265",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/663MMXLXKQP43VV",
-                        "source": "Fshare",
-                        "file_size": 5.6,
-                        "quality": "Cam",
-                        "audio_format": "AAC",
-                        "audio_tech": "Standard Surround Sound",
+                        "source_quality": "CAM",
+                        "file_size": "5.6 GB",
+                        "audio_format": "Unknown Audio",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "Deadpool and Wolverine",
+                        "file_name": "Deadpool.and.Wolverine.2024.1080p.CAM.x265.COLLECTiVE",
+                        "isVietSub": false,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.264 (AVC)",
+                        "codec": "x264",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/TY5K4I2EMLT2I5U",
-                        "source": "Fshare",
-                        "file_size": 9.0,
-                        "quality": "TS",
-                        "audio_format": "Dolby Digital (AC-3)",
-                        "audio_tech": "Standard Surround Sound",
+                        "source_quality": "TELESYNC",
+                        "file_size": "8.99 GB",
+                        "audio_format": "Unknown Audio",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "Deadpool And Wolverine",
+                        "file_name": "Deadpool.And.Wolverine.2024.1080p.TELESYNC.REPACK.DD2.0.x264.COLLECTiVE_Vietsub",
+                        "isVietSub": false,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.265 (HEVC)",
-                        "resolution": "4k",
-                        "bitrate": "",
+                        "codec": "HEVC",
+                        "resolution": "2160p",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/93GR6AO9ZXG679C",
-                        "source": "Fshare",
-                        "file_size": 20.6,
-                        "quality": "TS",
-                        "audio_format": "Dolby Digital (AC-3)",
-                        "audio_tech": "Standard Surround Sound",
+                        "source_quality": "TELESYNC",
+                        "file_size": "20.6 GB",
+                        "audio_format": "Unknown Audio",
                         "dubbing": false,
-                        "hdr": true
+                        "hdr": true,
+                        "title": "Deadpool And Wolverine",
+                        "file_name": "Deadpool.And.Wolverine.2024.2160p.HDR.Multi.Audio.TELESYNC.HEVC.COLLECTiVE (Vietsub)",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.264 (AVC)",
+                        "codec": "x264",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/R2MN6OJGFEGVOKI",
-                        "source": "Fshare",
-                        "file_size": 9.0,
-                        "quality": "TS",
-                        "audio_format": "Dolby Digital (AC-3)",
-                        "audio_tech": "Standard Surround Sound",
-                        "dubbing": true,
-                        "hdr": false
+                        "source_quality": "TELESYNC",
+                        "file_size": "9.95 GB",
+                        "audio_format": "Unknown Audio",
+                        "dubbing": false,
+                        "hdr": false,
+                        "title": "Deadpool And Wolverine",
+                        "file_name": "Deadpool.And.Wolverine.2024.ViE.1080p.REPACK.TELESYNC.x264.COLLECTiVE-Vietsub-TM-TM",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     }
                 ]
             }
@@ -114,30 +126,59 @@
             "stream": {
                 "videos": [
                     {
-                        "codec": "H.264 (AVC)",
+                        "codec": "H264",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/VUGEDDI4SD7NCJC",
-                        "source": "Fshare",
-                        "file_size": 9.24,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Dolby Atmos",
+                        "source_quality": "WEB-DL",
+                        "file_size": "9.24 GB",
+                        "audio_format": "DDP",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "(Vietsub) Twisters",
+                        "file_name": "(Vietsub) Twisters.2024.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.265 (HEVC)",
-                        "resolution": "4k",
-                        "bitrate": "",
+                        "codec": "H265",
+                        "resolution": "2160p",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/LJNCG1I9DUWQNSQ",
-                        "source": "Fshare",
-                        "file_size": 21.8,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Dolby Atmos",
+                        "source_quality": "WEB-DL",
+                        "file_size": "21.8 GB",
+                        "audio_format": "DDP",
                         "dubbing": false,
-                        "hdr": true
+                        "hdr": true,
+                        "title": "Twisters",
+                        "file_name": "Twisters.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX (phụ đề)",
+                        "isVietSub": true,
+                        "source": "Fshare"
+                    }
+                ]
+            }
+        },
+        {
+            "tmdb_id": 763165,
+            "name": "The Burial",
+            "imgUrl": "",
+            "type": "Movie",
+            "stream": {
+                "videos": [
+                    {
+                        "codec": "HEVC",
+                        "resolution": "2160p",
+                        "bitrate": null,
+                        "file_path": "https://www.fshare.vn/file/WOFSGMIGEEHY6ON",
+                        "source_quality": "WEB-DL",
+                        "file_size": "8.12 GB",
+                        "audio_format": "Unknown Audio",
+                        "dubbing": false,
+                        "hdr": false,
+                        "title": "(Sub Viet) Burial",
+                        "file_name": "(Sub Viet) Burial.2022.2160p.WEB-DL.DD5.1.HEVC-CMRG",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     }
                 ]
             }
@@ -150,17 +191,19 @@
             "stream": {
                 "videos": [
                     {
-                        "codec": "H.265 (HEVC)",
+                        "codec": "x265",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/BSPW82CA4EDF",
-                        "source": "Fshare",
-                        "file_size": 1.3,
-                        "quality": "HDTV",
-                        "audio_format": "AAC",
-                        "audio_tech": "Standard Surround Sound",
+                        "source_quality": "Unknown Quality",
+                        "file_size": "1.28 GB",
+                        "audio_format": "Unknown Audio",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "Alien Romulus",
+                        "file_name": "Alien Romulus.2024.1080p.hdtc.x265.Latino.YG",
+                        "isVietSub": false,
+                        "source": "Fshare"
                     }
                 ]
             }
@@ -173,56 +216,64 @@
             "stream": {
                 "videos": [
                     {
-                        "codec": "H.265 (HEVC)",
-                        "resolution": "4k",
-                        "bitrate": "",
+                        "codec": "H265",
+                        "resolution": "2160p",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/TXXLVCUWPKGBWCQ",
-                        "source": "Fshare",
-                        "file_size": 16.6,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Dolby Atmos",
+                        "source_quality": "WEB-DL",
+                        "file_size": "16.65 GB",
+                        "audio_format": "DDP",
                         "dubbing": false,
-                        "hdr": true
+                        "hdr": true,
+                        "title": "[Vietsub] Inside Out 2",
+                        "file_name": "[Vietsub] Inside Out.2.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.264 (AVC)",
+                        "codec": "H264",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/G9NB95NIFAVAID4",
-                        "source": "Fshare",
-                        "file_size": 7.1,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Dolby Atmos",
+                        "source_quality": "WEB-DL",
+                        "file_size": "7.07 GB",
+                        "audio_format": "DDP",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "[Vietsub] Inside Out 2",
+                        "file_name": "[Vietsub] Inside.Out.2.2024.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.265 (HEVC)",
-                        "resolution": "4k",
-                        "bitrate": "",
+                        "codec": "H265",
+                        "resolution": "2160p",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/M26E7KWLXOCDKHH",
-                        "source": "Fshare",
-                        "file_size": 17.0,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Dolby Atmos",
+                        "source_quality": "WEB-DL",
+                        "file_size": "17.05 GB",
+                        "audio_format": "DDP",
                         "dubbing": true,
-                        "hdr": true
+                        "hdr": true,
+                        "title": "(LT-PĐ) Inside Out 2",
+                        "file_name": "(LT-PĐ) Inside.Out.2.2024.2160p.iTunes.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-TK1-DreamHD",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.264 (AVC)",
+                        "codec": "H264",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/1QB5GNJIMEUS4WX",
-                        "source": "Fshare",
-                        "file_size": 7.5,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Dolby Atmos",
+                        "source_quality": "WEB-DL",
+                        "file_size": "7.51 GB",
+                        "audio_format": "DDP",
                         "dubbing": true,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "(LT-PĐ)Inside Out 2",
+                        "file_name": "(LT-PĐ)Inside.Out.2.2024.ViE.1080p.iTunes.WEB-DL.DDP.5.1.Atmos.H.264-TK1-DreamHD",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     }
                 ]
             }
@@ -235,30 +286,34 @@
             "stream": {
                 "videos": [
                     {
-                        "codec": "H.264 (AVC)",
+                        "codec": "H264",
                         "resolution": "1080p",
-                        "bitrate": "",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/KOFRD8SY7TBT",
-                        "source": "Fshare",
-                        "file_size": 3.1,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Standard Surround Sound",
+                        "source_quality": "WEB-DL",
+                        "file_size": "3.13 GB",
+                        "audio_format": "DDP",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": false,
+                        "title": "(Vietsub) Longlegs",
+                        "file_name": "(Vietsub) Longlegs.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR-KM",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     },
                     {
-                        "codec": "H.265 (HEVC)",
-                        "resolution": "4k",
-                        "bitrate": "",
+                        "codec": "H265",
+                        "resolution": "2160p",
+                        "bitrate": null,
                         "file_path": "https://www.fshare.vn/file/JBN21RFMKNCH",
-                        "source": "Fshare",
-                        "file_size": 10.6,
-                        "quality": "Web-DL",
-                        "audio_format": "Dolby Digital Plus (DDP)",
-                        "audio_tech": "Standard Surround Sound",
+                        "source_quality": "WEB-DL",
+                        "file_size": "10.63 GB",
+                        "audio_format": "DDP",
                         "dubbing": false,
-                        "hdr": false
+                        "hdr": true,
+                        "title": "(Vietsub) Longlegs",
+                        "file_name": "(Vietsub) Longlegs.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC-KM",
+                        "isVietSub": true,
+                        "source": "Fshare"
                     }
                 ]
             }
@@ -277,30 +332,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/PB4B1V2C8WKVGAU",
-                                        "source": "Fshare",
-                                        "file_size": 4.1,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "4.11 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E01.Episode.1.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.264-FLUX_viet sub",
+                                        "isVietSub": false,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "H265",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/P2SK982EI4P1NWC",
-                                        "source": "Fshare",
-                                        "file_size": 8.3,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "8.33 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E01.Episode.1.2160p.HMAX.WEB-DL.DDP5.1.Atmos.DV.H.265-FLUX_viet sub",
+                                        "isVietSub": false,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -310,30 +369,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/MIE468BO6HOQC8S",
-                                        "source": "Fshare",
-                                        "file_size": 3.4,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "3.39 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E02.The.Rogue.Prince.1080p.HMAX.WEB-DL.DDP5.1.H.264-NTb (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "HEVC",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/M6L97Z49QNTUGJ3",
-                                        "source": "Fshare",
-                                        "file_size": 7.0,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "6.97 GB",
+                                        "audio_format": "Unknown Audio",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E02.2160p.HMAX.WEB-DL.DD5.1.HDR. HEVC-FLUX_viet sub",
+                                        "isVietSub": false,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -343,30 +406,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/OSLDTNKN93C8VE1",
-                                        "source": "Fshare",
-                                        "file_size": 4.0,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "3.98 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E03.Second.of.His.Name.1080p.HMAX.WEB-DL.DDP5.1.H.264-NTb_Vietsub",
+                                        "isVietSub": false,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "H265",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/5Y4GKAG4WZYIHK5",
-                                        "source": "Fshare",
-                                        "file_size": 8.2,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "8.18 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E03.Episode.3.2160p.HMAX.WEB-DL.DDP5.1.Atmos.HDR.H.265-SMURF (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -376,30 +443,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/5D341H3P2UUGGNM",
-                                        "source": "Fshare",
-                                        "file_size": 3.9,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "3.93 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E04.1080p.HMAX.WEB-DL.DDP5.1.H.264-NTb (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "H265",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/B7QW16IQX7XQP1O",
-                                        "source": "Fshare",
-                                        "file_size": 8.1,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "8.08 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E04.Episode.4.2160p.HMAX.WEB-DL.DDP5.1.Atmos.HDR.H.265-SMURF (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -409,30 +480,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/3I1CELMZUY1YICX",
-                                        "source": "Fshare",
-                                        "file_size": 3.8,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "3.77 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E05.We.Light.The.Way.1080p.HMAX.WEB-DL.DDP5.1.H.264-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "HEVC",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/CMWBLTZ8YSVPNV4",
-                                        "source": "Fshare",
-                                        "file_size": 7.7,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "7.75 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E05.We.Light.The.Way.2160p.HMAX.WEB-DL.DDP5.1.HDR.HEVC-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -442,30 +517,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/GMJJUE44ZA95NMU",
-                                        "source": "Fshare",
-                                        "file_size": 4.2,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "4.24 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E06.The.Princess.and.the.Queen.1080p.HMAX.WEB-DL.DDP5.1.H.264-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "HEVC",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/KF6BTVPKF8KT9HF",
-                                        "source": "Fshare",
-                                        "file_size": 8.8,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "8.79 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E06.The.Princess.and.the.Queen.2160p.HMAX.WEB-DL.DDP5.1.HDR.HEVC-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -475,30 +554,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/IHL9AAESJZ6JWNB",
-                                        "source": "Fshare",
-                                        "file_size": 3.7,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "3.69 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E07.Driftmark.1080p.HMAX.WEB-DL.DDP5.1.H.264-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "HEVC",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/94J4MHCZPA2468B",
-                                        "source": "Fshare",
-                                        "file_size": 7.5,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "7.55 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E07.Driftmark.2160p.HMAX.WEB-DL.DDP5.1.HDR.HEVC-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -508,30 +591,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/2TOMRRAU3NO9XLX",
-                                        "source": "Fshare",
-                                        "file_size": 4.2,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "4.25 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E08.The.Lord.Of.The.Tides.1080p.HMAX.WEB-DL.DDP5.1.H.264-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "HEVC",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/29SX27IOOZRK85Q",
-                                        "source": "Fshare",
-                                        "file_size": 8.8,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "8.81 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E08.The.Lord.Of.The.Tides.2160p.HMAX.WEB-DL.DDP5.1.HDR.HEVC-NTb (Sub Viet)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -541,30 +628,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/96TD3ZIDXBG5Y93",
-                                        "source": "Fshare",
-                                        "file_size": 3.6,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB",
+                                        "file_size": "3.64 GB",
+                                        "audio_format": "Unknown Audio",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E09.1080p.WEB.H264-CAKES (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "H265",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/JS4X4EFMN4BXIHL",
-                                        "source": "Fshare",
-                                        "file_size": 7.5,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB",
+                                        "file_size": "7.53 GB",
+                                        "audio_format": "Unknown Audio",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E09.HDR.2160p.WEB.H265-GGEZ (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
@@ -574,30 +665,34 @@
                             "stream": {
                                 "videos": [
                                     {
-                                        "codec": "H.264 (AVC)",
+                                        "codec": "H264",
                                         "resolution": "1080p",
-                                        "bitrate": "",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/C36CV7Z4D5FFJ6W",
-                                        "source": "Fshare",
-                                        "file_size": 3.7,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB-DL",
+                                        "file_size": "3.72 GB",
+                                        "audio_format": "DDP",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": false,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E10.The.Black.Queen.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.264-SMURF (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     },
                                     {
-                                        "codec": "H.265 (HEVC)",
-                                        "resolution": "4k",
-                                        "bitrate": "",
+                                        "codec": "H265",
+                                        "resolution": "2160p",
+                                        "bitrate": null,
                                         "file_path": "https://www.fshare.vn/file/M8XSUOJE1RFLG67",
-                                        "source": "Fshare",
-                                        "file_size": 7.6,
-                                        "quality": "Web-DL",
-                                        "audio_format": "Dolby Digital Plus (DDP)",
-                                        "audio_tech": "Dolby Atmos",
+                                        "source_quality": "WEB",
+                                        "file_size": "7.61 GB",
+                                        "audio_format": "Unknown Audio",
                                         "dubbing": false,
-                                        "hdr": false
+                                        "hdr": true,
+                                        "title": "House of the Dragon",
+                                        "file_name": "House.of.the.Dragon.S01E10.HDR.2160p.WEB.H265-GLHF (Vietsub)",
+                                        "isVietSub": true,
+                                        "source": "Fshare"
                                     }
                                 ]
                             }
