@@ -1,0 +1,16 @@
+{
+  "name": "Quang Blue Movie 2",
+  "description": "Ở đây chỉ có 4k",
+  "repoUrl": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/repo_2.json",
+  "isPublic": true,
+  "version" : 2,
+  "service" : "allfix",
+  "dataLists": [
+    {
+      "name": "movie",
+      "description": "Danh sách phim lẻ",
+      "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-movie.json",
+      "version": 1
+    }
+  ]
+}
