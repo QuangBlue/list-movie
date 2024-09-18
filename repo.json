@@ -11,6 +11,12 @@
       "description": "Danh sách phim lẻ",
       "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-movie.json",
       "version": 1
+    },
+    {
+      "name": "movie",
+      "description": "Danh sách phim bộ",
+      "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-movie.json",
+      "version": 1
     }
   ]
 }
