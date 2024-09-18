@@ -7,14 +7,14 @@
   "service" : "allfix",
   "dataLists": [
     {
-      "name": "movie",
-      "description": "Danh sách phim lẻ",
+      "name": "Danh sách phim lẻ",
+      "description": "Phim lẻ 4k",
       "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-movie.json",
       "version": 1
     },
     {
-      "name": "movie",
-      "description": "Danh sách phim bộ",
+      "name": "Danh sách phim bộ",
+      "description": "Phim bộ 4k",
       "data": "https://raw.githubusercontent.com/QuangBlue/list-movie/main/list-movie.json",
       "version": 1
     }
